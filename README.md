@@ -49,7 +49,7 @@ for the terminal mode.
 ### 1 - Clone this repository
 
 ```bash
-git clone https://github.com/SetZero/mumble-docker
+git clone https://github.com/Fancy-Mumble/mumble-docker
 cd mumble-docker
 ```
 
